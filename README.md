@@ -1,5 +1,7 @@
 # vue_game
 
+[![vue-game.gif](https://i.postimg.cc/wMQJHcqG/vue-game.gif)](https://postimg.cc/m1hhy9FY)
+
 ## Project setup
 ```
 npm install
